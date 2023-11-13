@@ -23,10 +23,10 @@ The data was extracted from Maven analytics sample datasets [Link here](https://
 
 The data was analysed using Excel, Mysql server and visualized in Tableau public. 
 
-I used MySQL server to clean and prepare the data for data analysis.  
+I used Excel, MySQL server to clean and prepare the data for data analysis.  
 
 ### Tools
-
+- Excel- data cleaning
 - My SQL server- data cleaning and analysis
 - Tableau public - Visualization
 
